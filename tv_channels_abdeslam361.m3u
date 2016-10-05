@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:0 group-title="Streams",PIK TV HD
+http://live.piktv.cdnvideo.ru/piktv_live/mp4:piktv3pik3tv/playlist.m3u8
+#EXTINF:0,Russia Today
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
+#EXTINF:0,Russia Today Doc
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index2500.m3u8
+#EXTINF:0,Russia Today Док
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:0,Russia Today (Espanol)
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8?wowzasessionid=1670421395
+#EXTINF:0,Russia Today (Arabic)
+http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
+#EXTINF:0,MTV.am
+http://94.125.187.18/hlsam/lhigh/playlist.m3u8
+#EXTINF:0,DOT Dance
+http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
+#EXTINF:0,RBK
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:0,Life News
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:0,Eska TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:0,Brodilo TV
+http://brodilo.tv/channel.php
+
+#EXTINF:0 group-title="Videos",Youtube
+https://www.youtube.com/watch?v=iNJdPyoqt8U
+#EXTINF:0,MKV
+http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
+#EXTINF:0,MP4
+http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4
+#EXTINF:0,Music
+http://vodcasts.eu/media/malandra.mp3
+
+#EXTINF:0 group-title="Youtube Live",Sky News
+https://www.youtube.com/watch?v=y60wDzZt8yg
+#EXTINF:0 group-title="Youtube Live",Sky News 720p
+https://www.youtube.com/watch?v=y60wDzZt8yg,720
+#EXTINF:0,RT Spain (Auto)
+https://www.youtube.com/watch?v=OALyNX4IbBI,auto
+#EXTINF:0,Sport FM
+https://www.youtube.com/watch?v=l8MuZPMKUfk,live
